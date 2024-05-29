@@ -6,23 +6,26 @@
 
 <br>
 
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-![Descripción de la imagen](giphy.webp)
 
-![GIF Example](https://media.giphy.com/media/10FwycrnAkpshW/480w_s.jpg)  <!-- Imagen estática del GIF -->
+<div align="center">
+
+![Descripción de la imagen](giphy.webp)
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Podcaster at spare time
-- Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity
+ A passionate Self-taught Front-end developer ▪️
+ Podcaster in spare time ▪️
+ Currently learning Web Development by myself ▪️
+ I’m currently open for an Intern or a new job opportunity ▪️
+ Enthusiast in UX/UI design ▪️
+ Active in community tech meetups ▪️
+ Exploring advanced JavaScript frameworks ▪️
 
-<br><br>
+</div>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 

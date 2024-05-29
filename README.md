@@ -11,8 +11,9 @@
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+![Descripción de la imagen](giphy.webp)
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+![GIF Example](https://media.giphy.com/media/10FwycrnAkpshW/480w_s.jpg)  <!-- Imagen estática del GIF -->
 
 <br>
 

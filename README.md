@@ -15,13 +15,13 @@
 
 <br>
 
- A passionate Self-taught Front-end developer ▪️
- Podcaster in spare time ▪️
- Currently learning Web Development by myself ▪️
- I’m currently open for an Intern or a new job opportunity ▪️
- Enthusiast in UX/UI design ▪️
- Active in community tech meetups ▪️
- Exploring advanced JavaScript frameworks ▪️
+ - A passionate Self-taught Front-end developer
+ - Podcaster in spare time 
+ - Currently learning Web Development by myself 
+ - I’m currently open for an Intern or a new job opportunity 
+ - Enthusiast in UX/UI design 
+ - Active in community tech meetups 
+ - Exploring advanced JavaScript frameworks 
 
 </div>
 
@@ -56,7 +56,7 @@
     ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white)
     ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-<br>
+
 
 - **⚙️Softwares and Tools**:
 
@@ -65,7 +65,7 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-<br>
+
 
 - **🖥️Operating Systems**:
 
